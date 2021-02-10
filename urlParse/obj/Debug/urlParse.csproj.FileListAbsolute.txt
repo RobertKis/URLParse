@@ -1,0 +1,7 @@
+C:\Users\robik\source\repos\urlParse\urlParse\bin\Debug\urlParse.exe.config
+C:\Users\robik\source\repos\urlParse\urlParse\bin\Debug\urlParse.exe
+C:\Users\robik\source\repos\urlParse\urlParse\bin\Debug\urlParse.pdb
+C:\Users\robik\source\repos\urlParse\urlParse\obj\Debug\urlParse.csprojAssemblyReference.cache
+C:\Users\robik\source\repos\urlParse\urlParse\obj\Debug\urlParse.csproj.CoreCompileInputs.cache
+C:\Users\robik\source\repos\urlParse\urlParse\obj\Debug\urlParse.exe
+C:\Users\robik\source\repos\urlParse\urlParse\obj\Debug\urlParse.pdb
